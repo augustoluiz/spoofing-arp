@@ -1,0 +1,5 @@
+{
+  "victim_ip": "put the victim ip here",
+  "gateway_ip": "put the gateway ip here",
+  "attack_ip": "put the attack ip here"
+}
